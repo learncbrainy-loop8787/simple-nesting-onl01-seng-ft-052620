@@ -1,6 +1,6 @@
 
 def hopper
-  
+  programmer_hash[:known_for][:languages] = programmer_hash
 	programmer_hash = 
  		{
         :grace_hopper => {
